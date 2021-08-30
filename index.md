@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ITA Study
 
 You can use the [editor on GitHub](https://github.com/chomyungha51/ITA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
